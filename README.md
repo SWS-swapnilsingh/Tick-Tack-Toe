@@ -14,7 +14,6 @@ This is a simple Tic Tac Toe game implemented in Python. It allows two players (
 
 The code consists of several functions and a main game loop:
 
-- `sum(a, b, c)`: Calculates the sum of three numbers.
 - `printBoard(xState, zState)`: Prints the Tic Tac Toe board based on the current state of X and O moves.
 - `checkWin(xState, zState)`: Checks if there's a winner based on the current state of X and O moves.
 
